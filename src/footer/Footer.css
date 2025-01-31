@@ -1,0 +1,12 @@
+
+.ft{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 20px;
+    padding-left: 150px;
+    padding-right: 150px;
+}
+.ft li a{
+    text-decoration: none;
+}
